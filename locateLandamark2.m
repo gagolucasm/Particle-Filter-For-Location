@@ -1,3 +1,6 @@
+% Main Code
+% Graphical simulation of a robot trying to find its position
+
 numland=4;
 
 map=CreateMap(numland,5);
