@@ -1,8 +1,8 @@
 # Particle-Filter-For-Location
 
-Simulation of a mobile robot locating itself with the aid of beacons and a particle filter. GPS error taken into account.
+Simulation of a mobile robot locating itself with the aid of beacons and a particle filter. GPS error taken into account. Colorfull visualization in real time.
 
-## Instalation
+## Installation
 
 Clone the repository in your computer:
 
@@ -16,7 +16,7 @@ You will need:
 
 ## How to use
 
-Add the path of the instalation folder to the working directory
+Add the path of the installation folder to the working directory
 
 Run locateLandamark2.m 
 
