@@ -1,4 +1,4 @@
-# Particle-Filter-For-Location
+# Particle Filter for Location
 
 Simulation of a mobile robot locating itself with the aid of beacons and a particle filter. GPS error taken into account. Colorfull visualization in real time.
 
